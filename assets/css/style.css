@@ -54,6 +54,7 @@ html {
 }
 
 body {
+    font-family: 'Dosis', "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
     background: url('../img/bg/bg-4.png') repeat top center;
     color: #666666;
     margin-bottom: 80px;
@@ -62,7 +63,8 @@ body {
 
 
 h1 {
-    font-size: 2.8em;
+    font-family: 'Cookie', cursive;
+    font-size: 4em;
     font-weight: bold;
     margin: 20px 0;
 }
@@ -79,6 +81,22 @@ h3 {
     font-size: 2em;
     font-weight: bold;
     margin: 10px 0;
+}
+
+h4 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.my-name,
+.my-work {
+    font-size: 2.4em;
+    text-transform: uppercase;
+}
+
+.my-firm {
+    font-size: 2em;
 }
 
 

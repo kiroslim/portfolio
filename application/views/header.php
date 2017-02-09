@@ -19,7 +19,9 @@
     <title> Kiril Iliev - Portffolio </title>
 
     <!-- Google Fonts - Open Sans -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link href="http://fonts.googleapis.com/css?family=Dosis:400,600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
 
     <!-- Fonts for icons -->
     <link rel="stylesheet" href="<?php echo $this->config->item('lib_url'); ?>font-awesome/css/font-awesome.min.css">
