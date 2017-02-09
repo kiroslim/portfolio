@@ -9,14 +9,14 @@
 $this->load->view('header');
 ?>
 
-    <section id="intro_section" class="container-fluid text-center">
-        <h1>Hello</h1>
+    <section id="intro_section" class="container text-center">
+        <h1 class="hello"><span>Hello</span></h1>
         <h3 class="my-name">I'm Kiril Iliev</h3>
         <h2 class="my-work">A Front-end developer/Web designer</h2>
         <p class="my-firm">currently working for Dialog LTD Bulgaria</p>
     </section>
 
-    <section id="device_section" class="container-fluid text-center">
+    <section id="device_section" class="container text-center">
         <div id="device">
             <div class="item big-screen">Big screen</div>
             <div class="item normal-screen">Normal screen</div>
