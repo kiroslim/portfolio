@@ -23,12 +23,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://kirililiev.local/';
-$config['assets_url'] = 'http://kirililiev.local/assets/';
-$config['css_url'] = 'http://kirililiev.local/assets/css/';
-$config['js_url'] = 'http://kirililiev.local/assets/js/';
-$config['img_url'] = 'http://kirililiev.local/assets/img/';
-$config['lib_url'] = 'http://kirililiev.local/assets/lib/';
+$config['base_url'] = 'http://kirililiev.com/';
+$config['assets_url'] = 'http://kirililiev.com/assets/';
+$config['css_url'] = 'http://kirililiev.com/assets/css/';
+$config['js_url'] = 'http://kirililiev.com/assets/js/';
+$config['img_url'] = 'http://kirililiev.com/assets/img/';
+$config['lib_url'] = 'http://kirililiev.com/assets/lib/';
 
 /*
 |--------------------------------------------------------------------------

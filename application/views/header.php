@@ -37,7 +37,9 @@
 <body id="<?php echo $page; ?>" data-show_trace="1" <?php //if ($tab) echo 'data-tab="' . $tab . '"'; ?> data-locale="<?php //echo SLanguage::getLocale(); ?>bg_BG">
 
 <header>
-    <div class="left-menu hide-medium"></div>
-    <img class="logo" href="<?php echo $this->config->item('img_url'); ?>logo">
-    <div class="right-menu hide-medium"></div>
+    <div class="container">
+        <div class="left-menu hide-medium"></div>
+        <img class="logo" src="<?php echo $this->config->item('img_url'); ?>logo.png">
+        <div class="right-menu hide-medium"></div>
+    </div>
 </header>

@@ -88,20 +88,41 @@ h4 {
     margin: 10px 0;
 }
 
-.hello {
-    font-family: 'Cookie', cursive;
-    font-size: 5em;
-    border-bottom: 2px dotted #666666;
+header {
+    display: block;
+    height: 100px;
+
 }
 
-.my-name,
+.hello {
+    font-size: 6em;
+    font-family: 'Cookie', cursive;
+    background-size: cover ;
+
+}
+
+.hello span {
+    color: #b71066;
+    padding: 0 10px;
+}
+
+.my-name {
+    font-size: 2.4em;
+    text-transform: uppercase;
+}
+
 .my-work {
+    color: #1dd3b0;
     font-size: 2.4em;
     text-transform: uppercase;
 }
 
 .my-firm {
     font-size: 2em;
+}
+
+#content {
+    background: #ffffff;
 }
 
 
